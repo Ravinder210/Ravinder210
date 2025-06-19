@@ -65,7 +65,7 @@ I'm always open to research collaborations, internships, and startup ideas in:
 - Clinical AI systems
 
 **Feel free to connect!**  
-📫 [ravinderyourname@email.com] · [LinkedIn](https://linkedin.com/in/your-profile) · [Portfolio](https://your-website.com)
+📫 [ravinderkuhar210@gmail.com] 
 
 ---
 
