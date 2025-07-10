@@ -20,30 +20,36 @@ My work spans from **GenAI-powered clinical trial matching** to **retrieval-augm
 - 🧪 **Genomics & Biomedical NLP**  
   Exploring GenAI applications in disease classification, digital twins, and clinical evidence mining.
 
----
-
-## 🛠️ Notable Projects
-
-### 🔍 [RAG App – Retrieval-Augmented QA System](https://github.com/your-username/rag_app)
-A production-ready FastAPI app for querying custom PDFs using local LLMs and FAISS. Fully containerized with async background processing and a robust REST API.
-
-> **Stack**: FastAPI · LangChain · Ollama · Hugging Face · FAISS · PostgreSQL · Docker
 
 ---
 
-### 🧪 [TrialGPT – LLMs for Clinical Trial Matching](https://github.com/your-username/trialgpt)
+### 🧪 [TrialGPT – LLMs for Clinical Trial Matching](https://github.com/Ravinder210/trialgpt)
 An end-to-end system for **zero-shot patient-to-trial matching** using GPT-4 and hybrid retrieval. Achieves high accuracy across SIGIR and TREC cohorts with physician-level fidelity.
 
 > **Stack**: Python · Azure OpenAI · MedCPT · BM25 · JSONL Datasets · Keyword Fusion
 
 ---
 
-### 🍽️ [Flickd – AI-Powered Outfit Recommender from Video](https://github.com/your-username/flickd-hackathon)
+### 🎙️ [Kiran Voice Scriber – AI-Powered Medical Transcription](https://github.com/ravinder210/kiran-voice-scribe)
+An end-to-end **voice-to-clinical-notes system** for healthcare professionals using advanced speech recognition and AI-powered note structuring. Transforms doctor-patient consultations into structured medical documentation with physician-level accuracy and real-time processing capabilities.
+
+> **Stack**: React · TypeScript · FastAPI · Python · Sarvam AI · Google Vertex AI · Google Cloud Storage · Tailwind CSS · Shadcn/ui
+
+---
+
+### 🍽️ [Flickd – AI-Powered Outfit Recommender from Video](https://github.com/Ravinder210/flickd-hackathon)
 Built for a hackathon, this app extracts outfit frames from video, filters top 10 similar outfits using a vision model, and uses LLM-based filtering to identify the exact match.
 
 > **Stack**: Python · OpenCV · CLIP · OpenAI GPT-4 · Streamlit
 
 ---
+
+## 🛠️ Notable Projects
+
+### 🔍 [RAG App – Retrieval-Augmented QA System](https://github.com/Ravinder210/rag_app)
+A production-ready FastAPI app for querying custom PDFs using local LLMs and FAISS. Fully containerized with async background processing and a robust REST API.
+
+> **Stack**: FastAPI · LangChain · Ollama · Hugging Face · FAISS · PostgreSQL · Docker
 
 ## 💡 In the Works
 
