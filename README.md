@@ -20,12 +20,9 @@ My work spans from **GenAI-powered clinical trial matching** to **retrieval-augm
 - 🧪 **Genomics & Biomedical NLP**  
   Exploring GenAI applications in disease classification, digital twins, and clinical evidence mining.
 
-
-## 🛠️ Notable Projects
-
 ---
 
-
+## 🛠️ Notable Projects
 
 ### 🧪 [TrialGPT – LLMs for Clinical Trial Matching](https://github.com/Ravinder210/trialgpt)
 An end-to-end system for **zero-shot patient-to-trial matching** using GPT-4 and hybrid retrieval. Achieves high accuracy across SIGIR and TREC cohorts with physician-level fidelity.
@@ -41,7 +38,7 @@ An end-to-end **voice-to-clinical-notes system** for healthcare professionals us
 
 ---
 
-### 🍽️ [Flickd – AI-Powered Outfit Recommender from Video](https://github.com/Ravinder210/flickd-hackathon)
+### 👗 [Flickd – AI-Powered Outfit Recommender from Video](https://github.com/Ravinder210/flickd-hackathon)
 Built for a hackathon, this app extracts outfit frames from video, filters top 10 similar outfits using a vision model, and uses LLM-based filtering to identify the exact match.
 
 > **Stack**: Python · OpenCV · CLIP · OpenAI GPT-4 · Streamlit
