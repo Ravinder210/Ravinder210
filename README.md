@@ -21,7 +21,11 @@ My work spans from **GenAI-powered clinical trial matching** to **retrieval-augm
   Exploring GenAI applications in disease classification, digital twins, and clinical evidence mining.
 
 
+## 🛠️ Notable Projects
+
 ---
+
+
 
 ### 🧪 [TrialGPT – LLMs for Clinical Trial Matching](https://github.com/Ravinder210/trialgpt)
 An end-to-end system for **zero-shot patient-to-trial matching** using GPT-4 and hybrid retrieval. Achieves high accuracy across SIGIR and TREC cohorts with physician-level fidelity.
@@ -43,8 +47,6 @@ Built for a hackathon, this app extracts outfit frames from video, filters top 1
 > **Stack**: Python · OpenCV · CLIP · OpenAI GPT-4 · Streamlit
 
 ---
-
-## 🛠️ Notable Projects
 
 ### 🔍 [RAG App – Retrieval-Augmented QA System](https://github.com/Ravinder210/rag_app)
 A production-ready FastAPI app for querying custom PDFs using local LLMs and FAISS. Fully containerized with async background processing and a robust REST API.
