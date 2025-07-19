@@ -38,6 +38,15 @@ An end-to-end **voice-to-clinical-notes system** for healthcare professionals us
 
 ---
 
+---
+
+### 🎙️ [Voice AI Agent – Agent to ease out the Restaurant booking process ](https://github.com/ravinder210/sarvam-ai-voice-agent)
+A full-stack conversational AI system for restaurant discovery and reservations, supporting both voice and text interaction. Built with Google Gemini (Vertex AI), FastAPI, React, and SarvamAI.
+Demo: https://www.loom.com/share/1a784be2a1a441fcbdec0e37fab048f6
+> **Stack**: React · TypeScript · FastAPI · Python · Sarvam AI · Google Vertex AI · Google Cloud Storage · Tailwind CSS · Shadcn/ui
+
+---
+
 ### 👗 [Flickd – AI-Powered Outfit Recommender from Video](https://github.com/Ravinder210/flickd-hackathon)
 Built for a hackathon, this app extracts outfit frames from video, filters top 10 similar outfits using a vision model, and uses LLM-based filtering to identify the exact match.
 
