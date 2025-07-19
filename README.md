@@ -26,7 +26,7 @@ My work spans from **GenAI-powered clinical trial matching** to **retrieval-augm
 
 ### 🧪 [TrialGPT – LLMs for Clinical Trial Matching](https://github.com/Ravinder210/trialgpt)
 An end-to-end system for **zero-shot patient-to-trial matching** using GPT-4 and hybrid retrieval. Achieves high accuracy across SIGIR and TREC cohorts with physician-level fidelity.
-
+Demo: https://www.loom.com/share/1b94ab578f024dfdb21d8fc880bbcb27?sid=9b19c882-a69e-4929-a586-eb7520dd5f68
 > **Stack**: Python · Azure OpenAI · MedCPT · BM25 · JSONL Datasets · Keyword Fusion
 
 ---
